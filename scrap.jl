@@ -55,9 +55,9 @@ end
 
 function info()
     println("\n\tsimple web scrapper in julia - code by Anton (www.indodev.asia)
-    \n\tUsage: julia web_scraper.jl <URL_or_Domain>
-    \n\tExample: julia web_scraper.jl http://www.phrack.org/
-    \n\tExample: julia web_scraper.jl phrack.org
+    \n\tUsage: julia scrap.jl <URL_or_Domain>
+    \n\tExample: julia scrap.jl http://www.phrack.org/
+    \n\tExample: julia scrap.jl phrack.org
     \n");
 end
 
